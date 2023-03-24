@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Exercice 1
 # Go to the root directory
 cd /
